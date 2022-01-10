@@ -1,14 +1,14 @@
 # UDP_Chat_Room
 
-###Project is divided in 3 parts:
+### Project is divided in 3 parts:
 
-####Part 1: 
+#### Part 1: 
 Simple file transfer using UDP.
 
-####Part 2: 
+#### Part 2: 
 Reliable file transfer using UDP, according to the RDT 3.0 protocol.
 
-####Part 3: 
+#### Part 3: 
 Reliable chat room.
 
 
